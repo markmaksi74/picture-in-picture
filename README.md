@@ -1,3 +1,8 @@
+## Description
+1. Click on `CHOOSE` button to choose the video you want to watch in picture-in-picture mode. You can choose from any opened window on your machine
+2. After you choose a video or window, click on `START` button
+3. You can scale the picture-in-picture screen and it will always be on top of all opened windows
+
 ## Demo ⚡
 [https://markmaksi74.github.io/picture-in-picture/](https://markmaksi74.github.io/picture-in-picture/)
 
